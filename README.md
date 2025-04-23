@@ -24,6 +24,15 @@ This is a Co-Working Space Meeting Room Booking System built with Node.js, Expre
   - Admins can view all bookings and manage their status.
   - Bookings can be confirmed or canceled by admins.
 
+## Admin Login Credentials
+
+```
+{
+    "email": "web@programming-hero2.com",
+    "password": "ph-password"
+}
+
+```
 ## Tech Stack
 
 - **Backend**: Node.js, Express.js
